@@ -1,6 +1,7 @@
 # NavBar
 
 Just a simple Navigation Bar for webpages
+Completely responsive for Desktop and Mobile
 
 Built with
 * HTML
